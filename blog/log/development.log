@@ -1,0 +1,64 @@
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked hosts: a6799c3b5cac471694af32b06e2e3b87.vfs.cloud9.us-east-1.amazonaws.com
+Started GET "/" for 146.111.194.4 at 2024-11-20 20:34:41 +0000
+Cannot render console from 146.111.194.4! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.3ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY) /*application='Blog'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Blog'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Blog'*/[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 96ms (Views: 23.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/" for 146.111.194.4 at 2024-11-20 20:34:42 +0000
+Cannot render console from 146.111.194.4! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | GC: 0.0ms)
+Completed 200 OK in 15ms (Views: 0.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 146.111.194.4 at 2024-11-20 20:37:41 +0000
+Cannot render console from 146.111.194.4! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Blog'*/[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.7ms | GC: 0.0ms)
+Completed 200 OK in 81ms (Views: 24.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for 146.111.194.4 at 2024-11-20 20:37:42 +0000
+Cannot render console from 146.111.194.4! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.local/share/gem/ruby/gems/railties-8.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | GC: 0.0ms)
+Completed 200 OK in 13ms (Views: 0.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  [1m[36mActiveRecord::InternalMetadata Load (0.7ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='Blog'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Create (2.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ('environment', 'development', '2024-11-20 20:45:26.294675', '2024-11-20 20:45:26.294680') RETURNING "key" /*application='Blog'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Blog'*/[0m
+Migrating to CreateArticles (20241120204426)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Blog'*/[0m
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "articles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "body" text, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Blog'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20241120204426') RETURNING "version" /*application='Blog'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Blog'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Blog'*/[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN immediate TRANSACTION /*application='Blog'*/[0m
+  [1m[36mArticle Create (0.7ms)[0m  [1m[32mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES ('Hello Rails', 'I am on Rails!', '2024-11-20 20:47:02.968406', '2024-11-20 20:47:02.968406') RETURNING "id" /*application='Blog'*/[0m
+  [1m[36mTRANSACTION (2.2ms)[0m  [1m[35mCOMMIT TRANSACTION /*application='Blog'*/[0m
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles" WHERE "articles"."id" = 1 LIMIT 1 /*application='Blog'*/[0m
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles" /* loading for pp */ LIMIT 11 /*application='Blog'*/[0m
